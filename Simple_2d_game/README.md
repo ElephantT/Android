@@ -1,4 +1,4 @@
-Project (Android_lab1) - created in Android Studio
+Project (Android_lab1) - создан в Android Studio
 
 
 report - отчёт c условием задачи, описание основнных классов и изображением работы программы
