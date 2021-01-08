@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListOfGoods</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="create">Create</string>
+    <string name="hintName">Name</string>
+    <string name="hintStore">Store</string>
+    <string name="hintDate">Date</string>
+</resources>
